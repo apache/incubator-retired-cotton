@@ -16,8 +16,8 @@ A [user guide](docs/user-guide.md) is available. Documentation improvements are 
 The project maintains an IRC channel, `#mysos` on irc.freenode.net
 
 ### Mailing Lists
-- [Development Mailing List](mailto:dev-subscribe@mysos.incubator.apache.org)
-([Archives](http://www.mail-archive.com/dev@mysos.incubator.apache.org/))
+- [Development Mailing List](mailto:dev-subscribe@cotton.incubator.apache.org)
+([Archives](http://www.mail-archive.com/dev@cotton.incubator.apache.org/))
 
 ## License
 Licensed under the Apache License, Version 2.0: http://www.apache.org/licenses/LICENSE-2.0
