@@ -15,9 +15,19 @@ Cotton has been [accepted into the Apache Incubator](http://incubator.apache.org
 A [user guide](docs/user-guide.md) is available. Documentation improvements are always welcome, so please send patches our way.
 
 ## Getting Involved
-The project maintains an IRC channel, `#cotton` on irc.freenode.net
+Please check out the source code from Apache's git repostory:
 
-### Mailing Lists
+    git clone https://git-wip-us.apache.org/repos/asf/incubator-cotton.git
+
+or if you prefer GitHub, use the [GitHub mirror](https://github.com/apache/incubator-cotton):
+
+    git clone https://github.com/apache/incubator-cotton.git
+
+The Cotton community maintains the following project supporting services:
+
+- IRC channel: `#cotton` on irc.freenode.net
+- Reporting issues: [JIRA issue tracker](https://issues.apache.org/jira/browse/COTTON).
+- Submitting patches: [Review board](https://reviews.apache.org/groups/cotton/).
 - [Development Mailing List](mailto:dev-subscribe@cotton.incubator.apache.org)
 ([Archives](http://www.mail-archive.com/dev@cotton.incubator.apache.org/))
 
